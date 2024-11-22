@@ -20,7 +20,7 @@ function App() {
         <div className="flex">
           <LeftComp />
           <div
-            className="flex bg-cover bg-no-repeat w-3/4 mt-20"
+            className="flex bg-cover bg-no-repeat w-3/5 mt-20"
             style={{
               backgroundImage: `url(${Car})`,
               backgroundSize: "auto auto",
