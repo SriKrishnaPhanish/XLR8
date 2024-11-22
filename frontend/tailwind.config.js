@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         QuickSand: ["Quicksand", "sans-serif"],
+        Ubuntu: ["Ubuntu", "sans-serif"],
       },
     },
   },

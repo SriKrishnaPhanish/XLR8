@@ -4,7 +4,7 @@ export const TopBar = () => {
   return (
     <div className="flex justify-center mt-6">
       <div></div>
-      <div>
+      <div className="flex">
         <Button text={"Models"} />
         <Button text={"Service"} />
         <Button text={"Experience"} />
