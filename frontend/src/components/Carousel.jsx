@@ -34,7 +34,7 @@ export const Carousel = () => {
     autoplay: true,
     autoplaySpeed: 2000,
     pauseOnHover: true,
-    // nextArrow: <NextArrow />,
+    nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
   };
   return (
