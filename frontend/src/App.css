@@ -1,1 +1,18 @@
- 
+ .arrow {
+    font-size: 30px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 3px #ccc;
+    display: flex;
+    width: 50px;
+    position: absolute;
+    top: 200px;
+ }
+
+ .arrow-right {
+    right: 50px;
+ }
+
+ .arrow-left {
+    left: 50px;
+ }
