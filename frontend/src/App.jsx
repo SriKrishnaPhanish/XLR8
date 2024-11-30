@@ -23,7 +23,7 @@ function App() {
             className="flex bg-cover bg-no-repeat w-3/4 mt-20"
             style={{
               backgroundImage: `url(${Car})`,
-              backgroundSize: "auto ",
+              backgroundSize: "auto auto",
             }}
           ></div>
         </div>
